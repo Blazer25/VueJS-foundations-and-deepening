@@ -10,7 +10,7 @@ This project was developed with the following technologies:
 
 - VueJS
 - JavaScript
-- HTML
+- HTML5
 - CSS3
 
 <hr/>
